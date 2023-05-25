@@ -12,10 +12,10 @@ function Checkout() {
     <div className="checkout">
         <h1>PayPal Checkout</h1>
         <p className="checkout-title">
-            Design and Code React PayPal Checkout Procedure
+            PayPal Checkout Procedure
         </p>
         <p className="checkout-description">
-            Learn how to build a website with React JS
+            build by : iyas said seyam
         </p>
         <h1 className="checkout-price">$29</h1>
         <img className="product-image" src={ProductImage} alt="Product Image" />
