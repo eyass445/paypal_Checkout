@@ -18,7 +18,7 @@ function Checkout() {
             build by : iyas said seyam
         </p>
         <h1 className="checkout-price">$29</h1>
-        <img className="product-image" src={ProductImage} alt="Product Image" />
+        <img className="product-image" src={ProductImage} alt="Product" />
         <div className="separator"></div>
         <div className="paypal">
             <p className="checkout-title">PAY WITH PAYPAL</p>
